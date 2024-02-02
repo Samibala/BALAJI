@@ -1,4 +1,4 @@
-# Termux interface Qurxin 
+# Termux interface BALAJI
 
 <img src="/f.jpg" >
 
