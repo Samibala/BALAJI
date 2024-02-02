@@ -1,6 +1,6 @@
 # Termux interface BALAJI
 
-<img src="/f.jpg" >
+< >
 
 #### Qurxin is Termux banner or interface with parroto os shell and Wellcome robot like Jarvis in Iron Man movie created with love 16-oct-2020
 
