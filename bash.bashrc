@@ -3,7 +3,7 @@ command_not_found_handle() {
 }
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 clear
-mpv /$HOME/BALAJI/terminal ready.mp3
+mpv /$HOME/BALAJI/terminal[1].mp3
 clear
 echo -e "Created By balaji boss"
 echo "----------------------------" | lolcat
