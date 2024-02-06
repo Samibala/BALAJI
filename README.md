@@ -1,15 +1,15 @@
-# Termux interface BALAJI
+# Termux interface balaji
 
 < >
 
-#### Qurxin is Termux banner or interface with parroto os shell and Wellcome robot like Jarvis in Iron Man movie created with love 16-oct-2020
+#### balaji is Termux banner or interface with parroto os shell and Wellcome robot like Jarvis in Iron Man movie created with love 16-oct-2020
 
 ## [+] Installation & Usage :atom_symbol:
 ```
 apt update && upgrade -y 
 pkg install git python mpv figlet -y
 pip install lolcat
-git clone https://github.com/fikrado/qurxin
+git clone https://github.com/fikrado/balaji
 cd qurxin
 chmod +x *
 sh install.sh
